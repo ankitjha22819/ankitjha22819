@@ -86,7 +86,7 @@
 <h1>Certifications 🏆</h1>
 
 <ul>
-  <li><img src="https://img.shields.io/badge/TOGAF-005571?style=flat&logoColor=white"/> <b>TOGAF Enterprise Architecture</b> <i>(April 2026)</i></li>
+  <li><img src="https://img.shields.io/badge/TOGAF-005571?style=flat&logoColor=white"/> <b>TOGAF Enterprise Architecture</b> <i>(March 2026)</i></li>
   <li><img src="https://img.shields.io/badge/FinOps-00B2A9?style=flat&logoColor=white"/> <b>FinOps Certified Practitioner</b> - FinOps Foundation <i>(Jan 2026)</i></li>
 </ul>
 
