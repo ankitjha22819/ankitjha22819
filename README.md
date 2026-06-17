@@ -45,8 +45,8 @@ I help AI & SaaS founders make high-impact architecture decisions **before they 
 |---|---|
 | **AI / LLM** | Python · LangGraph · LangChain · OpenAI · Hugging Face · Pinecone |
 | **Cloud & FinOps** | AWS · Terraform · Docker · Kubernetes · CloudWatch / LangSmith |
-| **Backend & Data** | FastAPI · Node.js · PostgreSQL · Redis · Kafka |
-| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend & Data** | FastAPI · Node.js · PostgreSQL · MongoDB · Redis · Kafka |
+| **Frontend** | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
 ---
 
 ## ✍️ Writing
