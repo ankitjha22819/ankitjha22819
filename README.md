@@ -2,7 +2,7 @@
 
 ### AI Systems Architect · FinOps Certified — I help AI & SaaS founders ship production AI without burning runway on cloud bills.
 
-I help AI & SaaS founders make high-impact architecture decisions **before they become expensive mistakes** — bridging production-grade **agentic workflows**, **RAG pipelines**, and scalable microservices with **FinOps cost discipline**, so your infrastructure scales without your bill exploding.
+I help AI & SaaS founders make high-impact architecture decisions **before they become expensive mistakes** bridging production-grade **agentic workflows**, **RAG pipelines**, and scalable microservices with **FinOps cost discipline**, so your infrastructure scales without your bill exploding.
 
 *TOGAF Enterprise Architecture · FinOps Certified Practitioner (FinOps Foundation)*
 
@@ -46,7 +46,7 @@ I help AI & SaaS founders make high-impact architecture decisions **before they 
 | **AI / LLM** | Python · LangGraph · LangChain · OpenAI · Hugging Face · Pinecone |
 | **Cloud & FinOps** | AWS · Terraform · Docker · Kubernetes · CloudWatch / LangSmith |
 | **Backend & Data** | FastAPI · Node.js · PostgreSQL · Redis · Kafka |
-
+| **Frontend** | React · Next.js · TypeScript · Tailwind CSS |
 ---
 
 ## ✍️ Writing
@@ -59,6 +59,8 @@ I write about AI engineering, system architecture, and high-leverage technical d
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/22819-ankit-jha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/22819-ankit-jha) 
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankitjha22819)
+
 [![Website](https://img.shields.io/badge/ankitjha.pro-0a0a0a?style=for-the-badge&logo=safari&logoColor=white)](https://ankitjha.pro)
