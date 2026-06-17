@@ -1,16 +1,64 @@
-## Hi there 👋
+# Ankit Jha
 
-<!--
-**ankitjha22819/ankitjha22819** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Systems Architect · FinOps Certified — I help AI & SaaS founders ship production AI without burning runway on cloud bills.
 
-Here are some ideas to get you started:
+I help AI & SaaS founders make high-impact architecture decisions **before they become expensive mistakes** — bridging production-grade **agentic workflows**, **RAG pipelines**, and scalable microservices with **FinOps cost discipline**, so your infrastructure scales without your bill exploding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*TOGAF Enterprise Architecture · FinOps Certified Practitioner (FinOps Foundation)*
+
+> 💡 **Building something with AI? Let's make the right call early.**
+
+[![Book a call](https://img.shields.io/badge/📅%20Book%20a%20free%20consultation-2ea44f?style=for-the-badge)](https://ankitjha.pro)  &nbsp; [![Website](https://img.shields.io/badge/ankitjha.pro-0a0a0a?style=for-the-badge&logo=safari&logoColor=white)](https://ankitjha.pro)
+
+---
+
+## 🛠 What I help with
+
+- **AI Architecture Reviews** — de-risk your agentic/RAG design *before* you build the wrong thing.
+- **Production AI Builds** — agentic workflows & RAG pipelines that survive real traffic, not just demos.
+- **AI Cost & FinOps Optimization** — find and kill the cloud spend quietly eating your runway.
+
+---
+
+## 🔭 Selected Work
+
+**[cost-optimized-llm-serving](#)** — Reference architecture for serving LLMs on AWS at production scale. Fully Terraform-provisioned, with a documented FinOps breakdown: spot vs. on-demand GPU, request batching, and scale-to-zero. *<!-- TODO: real number, e.g. "Cuts steady-state inference cost ~38% vs. naive on-demand." -->*
+`Terraform` · `AWS` · `Python`
+
+**[autonomous-churn-agent](#)** — Multi-agent system (FastAPI + GPT-4o) that predicts SaaS customer churn and generates personalized retention playbooks. *<!-- TODO: outcome, e.g. "Flags at-risk accounts ~N days earlier than rule-based scoring." -->*
+`Python` · `FastAPI` · `LangGraph`
+
+**[rag-competitor-research-agent](#)** — RAG + LangGraph agent that researches competitors from live web data and ships structured intelligence reports. *<!-- TODO: outcome, e.g. "Compresses ~X hours of manual research into a single run." -->*
+`Python` · `RAG` · `LangGraph`
+
+**[mcp-vision-tool](#)** — Local MCP server bridging Computer Vision (Claude Vision + OpenCV) with IDEs for automated UI/UX auditing. *<!-- TODO: what it unlocks -->*
+`Python` · `MCP` · `OpenCV`
+
+**[devstack](#)** — One-command local dev environment (Postgres, Redis, Kafka, RabbitMQ, ELK) via Docker Compose. *<!-- TODO: e.g. "Onboards a new engineer in minutes, not days." -->*
+`Docker` · `Make`
+
+---
+
+## ⚙️ Core Stack
+
+| | |
+|---|---|
+| **AI / LLM** | Python · LangGraph · LangChain · OpenAI · Hugging Face · Pinecone |
+| **Cloud & FinOps** | AWS · Terraform · Docker · Kubernetes · CloudWatch / LangSmith |
+| **Backend & Data** | FastAPI · Node.js · PostgreSQL · Redis · Kafka |
+
+---
+
+## ✍️ Writing
+
+I write about AI engineering, system architecture, and high-leverage technical decisions.
+
+[![Hashnode](https://img.shields.io/badge/Read%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](#)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/22819-ankit-jha)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankitjha22819)
+[![Website](https://img.shields.io/badge/ankitjha.pro-0a0a0a?style=for-the-badge&logo=safari&logoColor=white)](https://ankitjha.pro)
