@@ -59,8 +59,10 @@ I write about AI engineering, system architecture, and high-leverage technical d
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/22819-ankit-jha) 
+<div align="center">
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankitjha22819)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/22819-ankit-jha)
+[![X](https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ankitjha22819)
+[![Website](https://img.shields.io/badge/ankitjha.pro-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ankitjha.pro)
 
-[![Website](https://img.shields.io/badge/ankitjha.pro-0a0a0a?style=for-the-badge&logo=safari&logoColor=white)](https://ankitjha.pro)
+</div>
