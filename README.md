@@ -34,9 +34,6 @@ I help AI & SaaS founders make high-impact architecture decisions **before they 
 **[mcp-vision-tool](#)** — Local MCP server bridging Computer Vision (Claude Vision + OpenCV) with IDEs for automated UI/UX auditing. *<!-- TODO: what it unlocks -->*
 `Python` · `MCP` · `OpenCV`
 
-**[devstack](#)** — One-command local dev environment (Postgres, Redis, Kafka, RabbitMQ, ELK) via Docker Compose. *<!-- TODO: e.g. "Onboards a new engineer in minutes, not days." -->*
-`Docker` · `Make`
-
 ---
 
 ## ⚙️ Core Stack
