@@ -50,7 +50,7 @@ I help AI & SaaS founders make high-impact architecture decisions **before they 
 
 I write about AI engineering, system architecture, and high-leverage technical decisions.
 
-[![Hashnode](https://img.shields.io/badge/Read%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@blog-ankitjha)
+[![Hashnode](https://img.shields.io/badge/Read%20on%20Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://ankitjha-consultant.hashnode.dev/)
 
 ---
 
